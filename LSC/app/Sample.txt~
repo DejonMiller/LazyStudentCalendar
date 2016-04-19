@@ -1,0 +1,88 @@
+CSc 4740/6740 (Computer Numbers 16378/16379) Spring 2016
+Data Mining
+Classroom: Aderhold Learning Center 213
+Date/Time: Friday, 01:00 p.m.-04:25 p.m.
+Instructor: Dr. Yanqing Zhang
+Office: 743 in 25 Park Place
+Phone: 404-414-5733 (o)
+Fax: 404-414-5717 (o)
+E-mail: yzhang@gsu.edu
+Website: http://www.cs.gsu.edu/~cscyqz/courses/dm/dm2016sp.html
+Office Hours: 1:00 p.m.-2:30 p.m., Monday or Wednesday or by appointment
+Text: Data Mining: Concepts and Techniques, Second Edition, by Jiawei Han and Micheline Kamber,
+Morgan Kaufmann Publishers, 2006.
+Course Content: Introduction to basic data mining techniques (such as association rules mining, cluster
+analysis, and classification methods) and big data mining applications (such as Web data mining,
+bioinformatics, health informatics, social networks and security). Hands-on programming projects.
+Prerequisite: CSc 3410 Data Structures.
+Course Requirements: All students should not only learn basic theoretical principles but also accumulate
+practical hands-on experience. Undergraduate students and graduate students will do assignments, take
+tests and finish programming projects. At the end of this semester, all graduate students and
+undergraduate students will give presentations to share knowledge and skills. An undergraduate student
+needs to write a technical paper with IEEE format (3 or more pages). A graduate student needs to write a
+conference paper with IEEE format (4 or more pages).
+Class Policy:
+ Attendance: Students are required to attend all classes.
+ Academic honesty: Plagiarism will result in a score of zero on the test or paper. The instructor has
+the right to make a decision.
+ Assignments and Projects: They must be handed in on time and will not be accepted when past due.
+ Withdrawals: March 1 Tuesday is the last day to withdraw and possibly receive a W.
+ Make-ups: need the instructor's special permission.
+Grading Policy:
+Mid-term Exam 20% A+ [97, 100] A [93, 97) A- [90, 93)
+Final Exam 20% B+ [87, 90) B [83, 87) B- [80, 83)
+Assignments 15% C+ [77, 80) C [70, 77)
+Projects 40% D+ [67, 70) D [63, 67) D- [60, 63)
+Attendance 5% F [0, 60)
+Tentative Course Outline and Schedule:
+Chapter 1 Introduction Jan. 15, 22
+Chapter 2 Data Preprocessing Jan. 22, 29, Feb. 5
+Chapter 3 Data Warehouse and OLAP Technology: An Overview Feb. 5, 12
+Chapter 5 Mining Frequent Patterns, Associations, and Correlations Feb. 12, 19, 26
+Mid-term Exam Feb. 26
+Chapter 6 Classification and Prediction Mar. 4, 11,
+Chapter 7 Cluster Analysis Mar. 25,
+Chapter 11 Applications and Trends in Data Mining April 1
+# Project Presentations April 8, 15, 22
+Final Exam April 22
+Research Project (email a complete Research Project including IEEE paper,
+ppt file and software with user manual to yzhang@gsu.edu)
+April 30
+Statement: This course syllabus provides a general plan for the course; deviations may be necessary.
+Research Paper
+Objectives
+Write a research paper on data mining to master professional research skills.
+Sample Paper Titles
+Sample titles are, but not limited to:
+ New Mobile Security Methods Using Big Data Mining Algorithms
+ New Clustering Algorithm
+ New Binary Classification Algorithm
+ New Multi Classification Algorithms
+ New Association Rule Mining Algorithm
+ New Data Pre-processing Algorithm
+ New Data Mining Methods for Big Data Mining Applications (security, bioinformatics, web
+intelligence, social nets, health informatics, etc.)
+, ..., etc.
+Research Paper
+Please refer to journal papers and books addressing the problem you choose.
+IEEE Paper format is at
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+A typical format of a paper is:
+Title
+Your Name
+Abstract
+1. Introduction
+ (in the 1st section specify the problem to be addressed, the motivation for the problem)
+2. Section 2 Title
+(in 2nd section, your new ideas, new design, etc.)
+3. Section 3 Title
+4. ?
+5. ?
+6. Conclusions
+References
+(list references (Authors, book title (or paper name and journal name), page numbers,
+publisher, year)).
+Note: visit IEEE Xplore, then select IEEE Xplore, finally may use keywords to find latest
+research publications.
+Due Date
+A zip file of the research paper, a presentation file and software due 4/30
